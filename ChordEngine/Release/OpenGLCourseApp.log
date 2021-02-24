@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\derek\source\repos\ChordEngine\ChordEngine\GLWindow.h(16,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\derek\source\repos\ChordEngine\ChordEngine\GLWindow.h(17,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\derek\source\repos\ChordEngine\ChordEngine\main.cpp(212,21): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating code
+  0 of 556 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ChordEngine.vcxproj -> C:\Users\derek\source\repos\ChordEngine\Release\ChordEngine.exe

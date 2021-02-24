@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\derek\source\repos\ChordEngine\ChordEngine\GLWindow.h(16,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\derek\source\repos\ChordEngine\ChordEngine\GLWindow.h(17,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\derek\source\repos\ChordEngine\ChordEngine\main.cpp(206,21): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Model.cpp
+C:\Users\derek\source\repos\ChordEngine\ChordEngine\Model.cpp(29,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const std::string'
+C:\Users\derek\source\repos\ChordEngine\ChordEngine\Model.cpp(108,13): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+  Texture.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  ChordEngine.vcxproj -> C:\Users\derek\source\repos\ChordEngine\Debug\ChordEngine.exe
