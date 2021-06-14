@@ -2,6 +2,10 @@
 
 A side project to learn OpenGL, rendering, game engine design and to use C++ in a larger codebase.
 
+# Youtube Demo:
+
+https://youtu.be/qvSReuoJ234
+
 # Current Progress:
 
 - [x] 3D object rendering
